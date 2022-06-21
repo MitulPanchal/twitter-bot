@@ -8,3 +8,5 @@ I have deploy this code to https://www.pythonanywhere.com/ and running bot there
 * Python 3.10.4
 * Tweepy 4.10.0
 * Twitter API v1.0 from - https://developer.twitter.com/
+
+Based on Course - https://www.udemy.com/course/python-training/
