@@ -10,7 +10,7 @@ I have deploy this code to https://www.pythonanywhere.com/ and running bot there
 * Twitter API v1.0 from - https://developer.twitter.com/
 
 ## Setup
-To run this project, You have to first get your Consumer Keys and Authentication Tokens from you twitter developer account and store those values in token.py file and then run as below:
+To run this project, You have to first get your Consumer Keys and Authentication Tokens from you twitter developer account and store those values in token.py file. Create last_seen.txt file which can contain tweet id once we reply to tweet and then run as below:
 
 ```
 Install Tweepy
